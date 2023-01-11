@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Tc1 is Running]]>
+    </line>
+    <line>
+      <![CDATA[Tc3 is Running]]>
+    </line>
+    <line>
+      <![CDATA[Tc2 is Running]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-11T11:49:40 IST" name="Suite" finished-at="2023-01-11T11:49:43 IST" duration-ms="2327">
+    <groups>
+    </groups>
+    <test started-at="2023-01-11T11:49:40 IST" name="Test" finished-at="2023-01-11T11:49:43 IST" duration-ms="2327">
+      <class name="com.testCases.TestCase3">
+        <test-method signature="tc3()[pri:0, instance:com.testCases.TestCase3@49912c99]" started-at="2023-01-11T11:49:43 IST" name="tc3" finished-at="2023-01-11T11:49:43 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc3 is Running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- com.testCases.TestCase3 -->
+      <class name="com.testCases.TestCase2">
+        <test-method signature="tc2()[pri:0, instance:com.testCases.TestCase2@10163d6]" started-at="2023-01-11T11:49:43 IST" name="tc2" finished-at="2023-01-11T11:49:43 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc2 is Running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- com.testCases.TestCase2 -->
+      <class name="com.testCases.TestCase1">
+        <test-method signature="tc1()[pri:0, instance:com.testCases.TestCase1@22e357dc]" started-at="2023-01-11T11:49:43 IST" name="tc1" finished-at="2023-01-11T11:49:43 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc1 is Running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- com.testCases.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
